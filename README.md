@@ -2,7 +2,7 @@
 
 **Contact / verification email:** 23f3000916@ds.study.iitm.ac.in
 
-## Executive Summary
+## Executive Summary-
 The company's average **equipment efficiency rate in 2024 is 75.03**, materially below the **industry benchmark target of 90**. Despite an encouraging improvement from **Q1 (71.48)** to **Q4 (81.77)**, the current level remains **14.97 points** short of the benchmark, contributing to increased downtime and maintenance costs. To close this gap, we recommend implementing a **predictive maintenance program** that reduces unplanned downtime and optimizes maintenance schedules.
 
 ## Key Findings
