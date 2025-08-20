@@ -5,7 +5,7 @@
 ## Executive Summary
 The company's average **equipment efficiency rate in 2024 is 75.03**, materially below the **industry benchmark target of 90**. Despite an encouraging improvement from **Q1 (71.48)** to **Q4 (81.77)**, the current level remains **14.97 points** short of the benchmark, contributing to increased downtime and maintenance costs. To close this gap, we recommend implementing a **predictive maintenance program** that reduces unplanned downtime and optimizes maintenance schedules.
 
-## Key Findings
+## Key Findings-
 - **Trend:** Quarterly efficiency increased from **71.48 → 71.33 → 75.53 → 81.77**, indicating progress but not at the slope required to hit 90 within the next period under status quo.
 - **Average 2024:** **75.03** (computed from the four quarters), **below target by 14.97**.
 - **Risk:** The gap drives higher scrap/rework risk and idle capacity. Unplanned failures are likely the dominant driver of variability in Q1–Q3.
